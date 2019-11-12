@@ -1,0 +1,22 @@
+{
+  "name": "testewhatsapp",
+  "version": "1.0.0",
+  "description": "Whatsapp redirecting based on user platform.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-device": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://leoslamas@bitbucket.org/leoslamas/whatsapp-link-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/leoslamas/whatsapp-link-generator#readme"
+}
