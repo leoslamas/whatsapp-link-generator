@@ -8,7 +8,7 @@ npm install
 
 ## Group link
 
-`http://{domain}/group?={code}`
+`http://{domain}/group?=code{code}`
 
 ## Chat link
 
