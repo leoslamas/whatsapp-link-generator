@@ -6,6 +6,12 @@ Simple script for redirecting users to Whatsapp group or chat based on user plat
 npm install
 ```
 
+## Run Server
+
+```
+node server
+```
+
 ## Group link
 
 `http://{domain}/group?=code{code}`
