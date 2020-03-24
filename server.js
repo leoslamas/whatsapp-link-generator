@@ -5,7 +5,6 @@ const device = require('express-device');
 const port = process.env.PORT || 8080;
 const app = express();
 
-app.use(express.static('dist'));
 app.use(device.capture());
 
 const generateGroupLink = (req) => {
