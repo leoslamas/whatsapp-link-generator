@@ -4,7 +4,7 @@
   "description": "Whatsapp redirecting based on user platform.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-device": "^0.4.2"
   },
   "devDependencies": {},
